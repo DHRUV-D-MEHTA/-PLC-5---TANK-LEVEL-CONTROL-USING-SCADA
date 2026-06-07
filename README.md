@@ -43,6 +43,9 @@ Observe tank level changes and pump operation
 ## Output
 
 
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/ac6dac98-925c-4a97-bf35-64d5d75c090e" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/30606f29-987f-4636-ae46-b5bd74fc2335" />
+<img width="1917" height="1032" alt="image" src="https://github.com/user-attachments/assets/abfe6823-2b94-415b-bc2e-084a304c6f55" />
 
  
 
